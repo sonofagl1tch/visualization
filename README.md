@@ -1,6 +1,8 @@
 # visualization
 This repo contains scripts i created to visualize different types of data
 
+## firewall visualizations 
+
 - translateToGraphviz.py
  - This script contains steps to visually represent your PAN configuration with graphviz
     1. Export pan config to csv
